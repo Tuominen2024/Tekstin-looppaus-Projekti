@@ -1,2 +1,2 @@
 # Tekstin-looppaus-Projekti
-Tässä koodausprojektissa laitan tekstin looppaamaan ikuisesti.
+Tässä koodausprojektissa laitan koodin looppaamaan ikuisesti.
